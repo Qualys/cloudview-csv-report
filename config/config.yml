@@ -1,0 +1,3 @@
+defaults:
+  accountMap: "./cloud-accounts.csv"
+  apiURL: "<Enter_QUALYS_API_URL>"
